@@ -20,3 +20,13 @@
  - [X] D3.js를 통한 시각화 실습 1 (bar_chart)
  - [X] D3.js를 통한 시각화 실습 2 (bubble_plot)
  - [X] D3.js를 통한 시각화 실습 3 (circle_packing)
+
+<br>
+<hr>
+<br>
+
+# 4. Certification
+
+<div>
+<img width="800" src="https://user-images.githubusercontent.com/40679567/69007522-086d4a00-0982-11ea-9a59-de620d56b4e3.jpg">
+</div>
