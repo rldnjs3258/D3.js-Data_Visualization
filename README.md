@@ -1,5 +1,3 @@
-# D3.js-Data_Visualization
-
 # 1. Original Address
  - Tacademy - D3.js를 활용한 빅데이터 시각화
  - https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=131
